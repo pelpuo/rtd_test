@@ -17,7 +17,7 @@ documentation for details.
 
 …
 
-Docs
+API Reference
 ====
 
 .. doxygenstruct:: cat
