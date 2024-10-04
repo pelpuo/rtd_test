@@ -18,7 +18,7 @@ RAIL Documentation
 …
 
 API Reference
-====
+=========================
 
 .. doxygenindex::
 
