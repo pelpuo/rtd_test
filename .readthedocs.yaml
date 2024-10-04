@@ -21,8 +21,8 @@ build:
       - npm install -g jsdoc
 
     pre_build:
-      - shot-scraper install
-      - shot-scraper https://datasette.io/ --height 800 -o docs/static/datasette.png
+      # - shot-scraper install
+      # - shot-scraper https://datasette.io/ --height 800 -o docs/static/datasette.png
 
     post_build:
       # Download a PDF sample and expose it
