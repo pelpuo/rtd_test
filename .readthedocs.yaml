@@ -20,7 +20,7 @@ build:
       # Test jsdoc
       - npm install -g jsdoc
 
-    pre_build:
+    # pre_build:
       # - shot-scraper install
       # - shot-scraper https://datasette.io/ --height 800 -o docs/static/datasette.png
 
